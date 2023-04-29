@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Isaac
+title: Isaac Moura
+masthead_title: " "
 email: isaacmoura16051999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -23,6 +24,7 @@ twitter_username: username
 github_username: isaacmdo
 minimal_mistakes_skin: default
 search: true
+logo: /assets/images/logo.png
 
 # Build settings
 markdown: kramdown
