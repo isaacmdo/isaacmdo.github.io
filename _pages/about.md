@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Sobre"
 ---
 
 Sou um desenvolvedor fullstack com mais de 3 anos de experiência no mercado sobre
