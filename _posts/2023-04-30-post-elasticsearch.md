@@ -1,7 +1,7 @@
 ---
 title: "Serilog com Elasticsearch + Kibana"
 categories:
-  - .NET
+  - Blog
 tags:
   - Logs
   - Monitoramento

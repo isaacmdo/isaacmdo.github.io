@@ -1,7 +1,6 @@
 ---
 title: "Princícios da criptografia com JWT"
 categories:
-  - .NET
   - Blog
 tags:
   - Autenticação

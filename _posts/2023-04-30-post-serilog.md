@@ -1,7 +1,7 @@
 ---
 title: "Logs com .NET + Serilog"
 categories:
-  - .NET
+  - Blog
 tags:
   - Logs
   - Monitoramento

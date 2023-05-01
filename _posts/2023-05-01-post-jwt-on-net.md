@@ -1,7 +1,7 @@
 ---
 title: "Implementação JWT em .NET"
 categories:
-  - .NET
+  - Blog
 tags:
   - Autenticação
 ---
