@@ -1,10 +1,10 @@
 ---
-title: "JWT - Json Web Token"
+title: "Princícios da criptografia com JWT"
 categories:
   - .NET
+  - Blog
 tags:
-  - Logs
-  - Monitoramento
+  - Autenticação
 ---
 
 Um JWT é uma string codificada que consiste em três partes separadas por pontos: o cabeçalho, o payload e a assinatura. O cabeçalho contém informações sobre o tipo de token e o algoritmo de criptografia usado para proteger o token. O payload contém informações sobre o usuário, como nome e ID. A assinatura é usada para verificar se o token é autêntico e não foi modificado durante a transmissão.
