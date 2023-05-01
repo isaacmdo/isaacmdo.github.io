@@ -7,9 +7,9 @@ tags:
   - Desenvolvimento
 ---
 
-Ao desenvolver um projeto ASP.NET 6, pode ser tentador usar try-catch em cada método do controller para lidar com exceções. Embora isso possa parecer uma boa prática à primeira vista, existem algumas desvantagens em adotar essa abordagem.
+Pode ser tentador usar try-catch em cada método do controller para lidar com exceções. Embora isso possa parecer uma boa prática à primeira vista, existem algumas desvantagens em adotar essa abordagem.
 
-Podemos remover facilmente, criando um middleware para tirar o try-catch dos controllers em um projeto ASP.NET 6:
+Podemos remover facilmente, criando um middleware para tirar o try-catch dos controllers em um projeto .NET:
 
 ```csharp
 using Microsoft.AspNetCore.Http;
