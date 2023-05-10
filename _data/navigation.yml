@@ -2,6 +2,6 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Meu CV"
-    url: "/assets/isaacmoura - CV.pdf"
+    url: "/assets/docs/curriculum.pdf"
   - title: "Sobre"
     url: /about/
